@@ -1,8 +1,8 @@
-# Auth0 OAuth Demo
+# Auth0 Identity Server (OAuth & OIDC) Single Sign on Demo
 
 ## Overview
 
-A sample application demonstrating OAuth 2.0 authentication using Auth0, a React frontend, and an ASP.NET Core Web API.
+A sample application demonstrating OAuth 2.0 authentication using Auth0 cloud hosted identity server, a React frontend, and an ASP.NET Core Web API.
 
 Users can log in through Auth0, view their authenticated user details, and access public and protected API endpoints.
 
